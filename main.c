@@ -9,7 +9,7 @@ int main(void){
     
     //test_plain_ate_pairing();         //Miller's Alg. (T'_1) and Final Exp. (T'_2)
     //test_opt_ate_pairing();           //Miller's Alg. (T'_1) and Final Exp. (T'_2)
-    //test_x_ate_pairing();             //Miller's Alg. (T'_1) and Final Exp. (T'_2)
+    test_x_ate_pairing();             //Miller's Alg. (T'_1) and Final Exp. (T'_2)
     //test_G1_SCM();                    //Scalar multiplication in G1 (T'_1)
     //test_G2_SCM();                    //Scalar multiplication in G2 (T'_1)
     //test_G3_EXP();                    //Exponentiation in G3 (T'_2)
